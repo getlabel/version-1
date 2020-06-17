@@ -6,4 +6,7 @@ Steps do follow:-
 4. pip install -r requirements.txt
 5. Run the command:- python run.py --image_folder car/
 
+#RESULT
+As a result you get the "xmls" directory which includes all the xmls of images.
+
 
